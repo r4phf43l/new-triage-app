@@ -3,8 +3,7 @@
 
 Novo SGA triage client
 
-Development
-Vue.
+Powered by Vue.
 
 ```
 # install dependencies
