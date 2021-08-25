@@ -18,3 +18,8 @@ npm run build
 # lint all JS/Vue component files in `src/`
 npm run lint
 ```
+## Por que deste fork?
+
+Esta versão inclui o recurso Backup Settings que permite fazer o Backup em um arquivo JSON das configurações.
+
+Enjoy.
