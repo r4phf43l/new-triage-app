@@ -50,6 +50,8 @@
               </a>
             </li>
           </ul>
+          <hr>
+          TRIAGEM v0.0.4
         </aside>
       </div>
       <div class="column">
@@ -601,6 +603,9 @@
             </label>
             <div class="control">
               <input class="input is-medium" type="file" accept=".json" required>
+            </div>
+            <div v-if="getURL">
+              Para utilizar a configuração padrão o arquivo settings.json deve estar na pasta ./uploads do servidor.
             </div>
           </div>
           <hr>
